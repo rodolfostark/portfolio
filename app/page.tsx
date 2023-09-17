@@ -24,6 +24,7 @@ export default async function Home() {
                     <li key={id}>
                       <a
                         href={value}
+                        target="_blank"
                         rel="noreferer noopener"
                         className="flex items-center gap-x-3 mb-5 hover:text-purple-400 duration-300"
                       >
