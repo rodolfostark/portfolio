@@ -34,7 +34,7 @@ To use this as a template for your portfolio site, follow this guide: [How to bu
 ```bash
 git clone https://github.com/rodolfostark/portfolio
 
-cd sanity-nextjs-site
+cd portfolio
 
 npm install
 
