@@ -50,7 +50,7 @@ export default async function About() {
                       className="flex items-center justify-center gap-x-2 hover:text-purple-400 duration-300"
                     >
                       <BiEnvelope className="text-lg" />
-                      { data.email }
+                      {data.email}
                     </a>
                   </li>
                 </ul>
