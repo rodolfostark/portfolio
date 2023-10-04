@@ -3,8 +3,6 @@ export default function EngineerSvg() {
         <svg
             xmlns="http://www.w3.org/2000/svg"
             data-name="Layer 1"
-            width="786.81995"
-            height="572.25773"
             viewBox="0 0 786.81995 572.25773"
             xmlnsXlink="http://www.w3.org/1999/xlink"
         >
