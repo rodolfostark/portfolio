@@ -1,6 +1,5 @@
 import { getProfile } from "@/sanity/sanity.query";
 import type { ProfileType } from "@/types";
-import HeroSvg from "./icons/HeroSvg";
 import EngineerSvg from "./icons/EngineerSvg";
 import Job from "./components/Job";
 
