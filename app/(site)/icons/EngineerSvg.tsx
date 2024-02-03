@@ -5,6 +5,7 @@ export default function EngineerSvg() {
             data-name="Layer 1"
             viewBox="0 0 786.81995 572.25773"
             xmlnsXlink="http://www.w3.org/1999/xlink"
+            className="visible max-md:hidden"
         >
             <circle cx="458.32136" cy="74.18162" r="26.70075" fill="#f2f2f2" />
             <path
