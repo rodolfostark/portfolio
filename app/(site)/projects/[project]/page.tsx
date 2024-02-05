@@ -42,7 +42,7 @@ export default async function Project({ params }: Props) {
           <a
             href={project.projectUrl}
             rel="noreferrer noopener"
-            className="bg-[#1d1d20] text-white hover:border-zinc-700 border border-transparent rounded-md px-4 py-2"
+            className="bg-[#1d1d20] text-white hover:text-purple-400 hover:border-zinc-700 duration-300 border border-transparent rounded-md px-4 py-2"
             target="_blank"
           >
             Explore
