@@ -80,16 +80,16 @@ const profile = {
                     initialValue: "https://linkedin.com/in/",
                 },
                 {
-                    name: "twitter",
-                    title: "Twitter URL",
+                    name: "dev",
+                    title: "Dev URL",
                     type: "url",
-                    initialValue: "https://twitter.com/",
+                    initialValue: "https://dev.to/",
                 },
                 {
-                    name: "twitch",
-                    title: "Twitch URL",
+                    name: "leetcode",
+                    title: "LeetCode URL",
                     type: "url",
-                    initialValue: "https://twitch.com/",
+                    initialValue: "https://leetcode.com/",
                 },
             ],
             options: {
